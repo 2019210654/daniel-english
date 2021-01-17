@@ -10,6 +10,8 @@ questions if he is interested in something. I love him!
 |#ID#|Date |Subject|
 |:--:|:---:|:------|
 | 001|2021/01/17|[英语中如何分辨祖父母和外祖父母][2021001]|
+| 002|2021/01/17|[think about和think of的区别][2021002]|
 
 
 [2021001]: 2021/01/0117.grandpa.md
+[2021002]: 2021/01/0117.thinkabout.md
